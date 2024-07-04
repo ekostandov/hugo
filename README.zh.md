@@ -34,7 +34,7 @@ $ ./demo.sh run
 
 ## 自定义选项
 
-### 列表页 (_index.md)
+### 列表页 (\_index.md)
 
 ```
 +++
@@ -96,7 +96,7 @@ block name 的 partial template 即可, 举例说明:
 ```
 {{ define "css" }}
     {{- $css := slice }}
-    {{- $css = $css | append (resources.Get "mystyle.css") }}
+    {{- $css = $css | append (resources.Get "mystyle.css") true }}
     {{- $css = $css | resources.Concat "mystyle.bundle.css" }}
     {{- $css = $css | resources.Minify }}
     <link rel="stylesheet" href="{{- $css.RelPermalink -}}">
