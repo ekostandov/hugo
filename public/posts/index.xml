@@ -2,118 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ajuma</title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Ajuma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2024 10:02:09 +0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jul 2024 10:02:09 +0300</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Benefits of static site generators.</title>
-      <link>//localhost:1313/posts/post-1/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-3/</link>
+      <pubDate>Thu, 04 Jul 2024 10:02:09 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-1/</guid>
-      <description>&lt;p&gt;Thénardier was not mistaken. The man was sitting there, and letting
-Cosette get somewhat rested.&lt;/p&gt;</description>
+      <guid>/posts/post-3/</guid>
+      <description>&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;
+&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-3/</link>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-1/</link>
       <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-3/</guid>
-      <description>English page of post 1</description>
+      <guid>/posts/post-1/</guid>
+      <description>&lt;h1 id=&#34;h1-heading&#34;&gt;h1 Heading&lt;/h1&gt;
+&lt;h2 id=&#34;h2-heading&#34;&gt;h2 Heading&lt;/h2&gt;
+&lt;h3 id=&#34;h3-heading&#34;&gt;h3 Heading&lt;/h3&gt;
+&lt;h4 id=&#34;h4-heading&#34;&gt;h4 Heading&lt;/h4&gt;
+&lt;h5 id=&#34;h5-heading&#34;&gt;h5 Heading&lt;/h5&gt;
+&lt;h6 id=&#34;h6-heading&#34;&gt;h6 Heading&lt;/h6&gt;
+&lt;h2 id=&#34;horizontal-rules&#34;&gt;Horizontal Rules&lt;/h2&gt;
+&lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-4/</link>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-2/</link>
       <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-4/</guid>
-      <description>English page of post 1</description>
+      <guid>/posts/post-2/</guid>
+      <description>&lt;h1 id=&#34;h1-heading&#34;&gt;h1 Heading&lt;/h1&gt;
+&lt;h2 id=&#34;h2-heading&#34;&gt;h2 Heading&lt;/h2&gt;
+&lt;h3 id=&#34;h3-heading&#34;&gt;h3 Heading&lt;/h3&gt;
+&lt;h4 id=&#34;h4-heading&#34;&gt;h4 Heading&lt;/h4&gt;
+&lt;h5 id=&#34;h5-heading&#34;&gt;h5 Heading&lt;/h5&gt;
+&lt;h6 id=&#34;h6-heading&#34;&gt;h6 Heading&lt;/h6&gt;
+&lt;h2 id=&#34;horizontal-rules&#34;&gt;Horizontal Rules&lt;/h2&gt;
+&lt;hr&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-5/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-11/</link>
+      <pubDate>Tue, 02 Jul 2024 10:02:16 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-5/</guid>
-      <description>English page of post 1</description>
+      <guid>/posts/post-11/</guid>
+      <description>&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;
+&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-6/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-10/</link>
+      <pubDate>Tue, 02 Jul 2024 10:02:15 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-6/</guid>
-      <description>English page of post 1</description>
+      <guid>/posts/post-10/</guid>
+      <description>&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;
+&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-7/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-9/</link>
+      <pubDate>Tue, 02 Jul 2024 10:02:14 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-7/</guid>
-      <description>English page of post 1</description>
+      <guid>/posts/post-9/</guid>
+      <description>&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;
+&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-8/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-8/</link>
+      <pubDate>Tue, 02 Jul 2024 10:02:13 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-8/</guid>
-      <description>English page of post 1</description>
+      <guid>/posts/post-8/</guid>
+      <description>&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;
+&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-9-copy-2/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-7/</link>
+      <pubDate>Tue, 02 Jul 2024 10:02:12 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-9-copy-2/</guid>
-      <description>English page of post 1</description>
+      <guid>/posts/post-7/</guid>
+      <description>&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;
+&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-9-copy-3/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-6/</link>
+      <pubDate>Tue, 02 Jul 2024 10:02:11 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-9-copy-3/</guid>
-      <description>English page of post 1</description>
+      <guid>/posts/post-6/</guid>
+      <description>&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;
+&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-9-copy/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-5/</link>
+      <pubDate>Tue, 02 Jul 2024 10:02:10 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-9-copy/</guid>
-      <description>English page of post 1</description>
+      <guid>/posts/post-5/</guid>
+      <description>&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;
+&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post 1 EN</title>
-      <link>//localhost:1313/posts/post-9/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
+      <title>EN Benefits of static site generators.</title>
+      <link>/posts/post-4/</link>
+      <pubDate>Tue, 02 Jul 2024 10:02:09 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/post-9/</guid>
-      <description>English page of post 1</description>
-    </item>
-    
-    <item>
-      <title>Post 2 EN</title>
-      <link>//localhost:1313/posts/post-2/</link>
-      <pubDate>Wed, 03 Jul 2024 10:02:09 +0300</pubDate>
-      
-      <guid>//localhost:1313/posts/post-2/</guid>
-      <description>English page of post 2</description>
+      <guid>/posts/post-4/</guid>
+      <description>&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;
+&lt;p&gt;The purpose of website generators is to render content into HTML files. Most are “dynamic site generators.” That means the HTTP server—i.e., the program that sends files to the browser to be viewed—runs the generator to create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
     </item>
     
   </channel>
